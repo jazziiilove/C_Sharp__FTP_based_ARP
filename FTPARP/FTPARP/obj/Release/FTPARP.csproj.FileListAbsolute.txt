@@ -1,0 +1,10 @@
+C:\Documents and Settings\Baran\Local Settings\Application Data\Temporary Projects\FTPARP\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Baran\Belgelerim\Visual Studio 2008\Projects\FTPARP\FTPARP\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Baran\Belgelerim\Visual Studio 2008\Projects\FTPARP\FTPARP\bin\Release\FTPARP.exe
+C:\Documents and Settings\Baran\Belgelerim\Visual Studio 2008\Projects\FTPARP\FTPARP\bin\Release\FTPARP.pdb
+C:\Documents and Settings\Baran\Belgelerim\Visual Studio 2008\Projects\FTPARP\FTPARP\obj\Release\FTPARP.exe
+C:\Documents and Settings\Baran\Belgelerim\Visual Studio 2008\Projects\FTPARP\FTPARP\obj\Release\FTPARP.pdb
+C:\Users\Baran.Topal\Documents\C#Projects\ARPARP\C#Alternate_FTP_based\FTPARP\FTPARP\obj\Release\FTPARP.exe
+C:\Users\Baran.Topal\Documents\C#Projects\ARPARP\C#Alternate_FTP_based\FTPARP\FTPARP\obj\Release\FTPARP.pdb
+C:\Users\Baran.Topal\Documents\C#Projects\ARPARP\C#Alternate_FTP_based\FTPARP\FTPARP\bin\Release\FTPARP.exe
+C:\Users\Baran.Topal\Documents\C#Projects\ARPARP\C#Alternate_FTP_based\FTPARP\FTPARP\bin\Release\FTPARP.pdb
